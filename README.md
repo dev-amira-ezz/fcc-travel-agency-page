@@ -1,4 +1,4 @@
-# Debug Camperbot's Profile Page - Lab from freeCodeCamp
+# Travel Agency Page - Lab from freeCodeCamp
 
 This is a lab project built as part of the [Full-Stack Web Development certification program](https://www.freecodecamp.org/learn/full-stack-developer/) on [freeCodeCamp.org](https://www.freecodecamp.org).  
 
